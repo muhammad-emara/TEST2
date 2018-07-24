@@ -1,0 +1,63 @@
+Time : 21:00:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM `cap_infrautli`' at line 1
+Raw SQL : SELECT distinct `resrc_name`, `resrc_item`, `currentutilized`, `capacity`, FROM `cap_infrautli`
+
+Time : 20:59:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM `cap_infrautli`' at line 1
+Raw SQL : SELECT distinct `resrc_name`, `resrc_item`, `currentutilized`, `capacity`, FROM `cap_infrautli`
+
+Time : 18:40:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '),add_by=VALUES(add_by)' at line 1
+Raw SQL : INSERT INTO `cap_infrautli`(`resrc_name`, `resrc_item`, `currentutilized`, `capacity`, `add_by`) VALUES ('Unified Routers & Switches','CPU','12 Sockets','23 Sockets','mohemara'),('Unified Routers & Switches','Memory','22 MB','43 MB','mohemara'),('Unified Routers & Switches','Interface/Disk','52 KB','63 KB','mohemara')ON DUPLICATE KEY UPDATE currentutilized=VALUES(currentutilized),capacity=VALUES(capacity),add_time=TIMESTAMP(),add_by=VALUES(add_by)
+
+Time : 18:39:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '),add_by='mohemara'' at line 1
+Raw SQL : INSERT INTO `cap_infrautli`(`resrc_name`, `resrc_item`, `currentutilized`, `capacity`, `add_by`) VALUES ('Unified Routers & Switches','CPU','12 Sockets','23 Sockets','mohemara'),('Unified Routers & Switches','Memory','22 MB','43 MB','mohemara'),('Unified Routers & Switches','Interface/Disk','52 KB','63 KB','mohemara')ON DUPLICATE KEY UPDATE currentutilized=VALUES(currentutilized),capacity=VALUES(capacity),add_time=TIMESTAMP(),add_by='mohemara'
+
+Time : 18:38:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '),add_by='mohemara'' at line 1
+Raw SQL : INSERT INTO `cap_infrautli`(`resrc_name`, `resrc_item`, `currentutilized`, `capacity`, `add_by`) VALUES ('Unified Routers & Switches','CPU','12 Sockets','23 Sockets','mohemara'),('Unified Routers & Switches','Memory','22 MB','43 MB','mohemara'),('Unified Routers & Switches','Interface/Disk','52 KB','63 KB','mohemara')ON DUPLICATE KEY UPDATE currentutilized=VALUES(currentutilized),capacity=VALUES(capacity),add_time=TIMESTAMP(),add_by='mohemara'
+
+Time : 18:27:10
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Backup Server/Syslog-CPU' for key 'unique_index'
+Raw SQL : INSERT INTO `cap_infrautli`(`resrc_name`, `resrc_item`, `currentutilized`, `capacity`, `add_by`) VALUES ('Backup Server/Syslog','CPU','1 Sockets','2 Sockets','mohemara'),('Backup Server/Syslog','Memory','3 %','4 %','mohemara'),('Backup Server/Syslog','Interface/Disk','5 MB','6 MB','mohemara')
+
+Time : 18:26:42
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Backup Server/Syslog-CPU' for key 'unique_index'
+Raw SQL : INSERT INTO `cap_infrautli`(`resrc_name`, `resrc_item`, `currentutilized`, `capacity`, `add_by`) VALUES ('Backup Server/Syslog','CPU','1 Sockets','2 Sockets','mohemara'),('Backup Server/Syslog','Memory','3 %','4 %','mohemara'),('Backup Server/Syslog','Interface/Disk','5 MB','6 MB','mohemara')
+
+Time : 18:26:35
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Backup Server/Syslog-CPU' for key 'unique_index'
+Raw SQL : INSERT INTO `cap_infrautli`(`resrc_name`, `resrc_item`, `currentutilized`, `capacity`, `add_by`) VALUES ('Backup Server/Syslog','CPU','1 Sockets','2 Sockets','mohemara'),('Backup Server/Syslog','Memory','3 %','4 %','mohemara'),('Backup Server/Syslog','Interface/Disk','5 MB','6 MB','mohemara')
+
+Time : 14:47:10
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Managed Voice IPBX' for key 'service_name'
+Raw SQL : INSERT INTO cap_futureservice(`service_name`, `Considerations`, `add_by`) values('Managed Voice IPBX','ddsad','mohemara')
+
+Time : 14:46:04
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Business In Box' for key 'service_name'
+Raw SQL : INSERT INTO cap_futureservice(`service_name`, `Considerations`, `add_by`) values('Business In Box','dsdsd','mohemara')
+
+Time : 14:44:07
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Business In Box' for key 'service_name'
+Raw SQL : INSERT INTO cap_servicetechno(`service_name`, `tehno_name`, `add_by`) values('Business In Box','Avaya','mohemara')
+
+Time : 14:43:54
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Business In Box' for key 'service_name'
+Raw SQL : INSERT INTO cap_servicetechno(`service_name`, `tehno_name`, `add_by`) values('Business In Box','Avaya','mohemara')
+
+Time : 13:59:04
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mss_life_db.cap_service' doesn't exist
+Raw SQL : SELECT `service_name` FROM `cap_service` order by service_name
+
+Time : 13:58:57
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mss_life_db.cap_service' doesn't exist
+Raw SQL : SELECT `service_name` FROM `cap_service` order by service_name
+
+Time : 13:35:42
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mss_life_db.cap_intro' doesn't exist
+Raw SQL : select intro from `cap_intro`
+
+Time : 13:35:38
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mss_life_db.cap_intro' doesn't exist
+Raw SQL : select intro from `cap_intro`

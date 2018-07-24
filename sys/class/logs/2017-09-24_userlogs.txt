@@ -1,0 +1,14 @@
+Time : 16:03:46
+User: sojohn |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.81 |-| @1506254626.5862
+
+Time : 15:54:23
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.180 |-| @1506254063.6192
+
+Time : 15:48:33
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: ::1 |-| @1506253713.3746
+
+Time : 14:19:57
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: ::1 |-| @1506248397.8448
+
+Time : 11:09:20
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: ::1 |-| @1506236960.4454

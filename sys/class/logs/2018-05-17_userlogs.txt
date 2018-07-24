@@ -1,0 +1,77 @@
+Time : 14:33:27
+User: ksingh2 |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.174 |-| @1526553207.0507
+
+Time : 14:32:55
+User: krasal |-| actionType: Delete Cap cap_futureservice |-| ActionDetail: Success Delete |-| Called From: cap_futureservice ID :15 deleted |-| IP: 10.56.10.117 |-| @1526553175.6181
+
+Time : 14:32:47
+User: krasal |-| actionType: Delete Cap cap_futureservice |-| ActionDetail: Success Delete |-| Called From: cap_futureservice ID :12 deleted |-| IP: 10.56.10.117 |-| @1526553167.7979
+
+Time : 14:32:31
+User: ksingh2 |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.174 |-| @1526553151.8956
+
+Time : 14:32:18
+User: krasal |-| actionType: Delete Cap servicetechno |-| ActionDetail: Success Delete |-| Called From: servicetechno ID :13 deleted |-| IP: 10.56.10.117 |-| @1526553138.6553
+
+Time : 14:32:15
+User: krasal |-| actionType: Delete Cap servicetechno |-| ActionDetail: Success Delete |-| Called From: servicetechno ID :12 deleted |-| IP: 10.56.10.117 |-| @1526553135.1933
+
+Time : 14:31:36
+User: krasal |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.117 |-| @1526553096.2315
+
+Time : 14:27:15
+User: krasal |-| actionType: Try to login |-| ActionDetail: Faild login |-| Called From: users Class |-| IP: 10.56.10.117 |-| @1526552835.0698
+
+Time : 14:27:12
+User: krasal |-| actionType: Try to login |-| ActionDetail: Faild login |-| Called From: users Class |-| IP: 10.56.10.117 |-| @1526552832.1398
+
+Time : 14:27:07
+User: krasal |-| actionType: Try to login |-| ActionDetail: Faild login |-| Called From: users Class |-| IP: 10.56.10.117 |-| @1526552827.8597
+
+Time : 13:53:25
+User: halraeesi |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.124 |-| @1526550805.1343
+
+Time : 13:39:12
+User: mgounder |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.119 |-| @1526549952.721
+
+Time : 13:23:52
+User: aalqaydi |-| actionType: Delete Cap Mapower utiliti |-| ActionDetail: Success Delete |-| Called From: Resource ID :Gobal Network Opertaion Centre (GNOC)-Gobal Network Opertaion Centre (GNOC) deleted |-| IP: 10.56.11.117 |-| @1526549032.8954
+
+Time : 13:23:31
+User: aalqaydi |-| actionType: Delete Cap Mapower utiliti |-| ActionDetail: Success Delete |-| Called From: Resource ID :Gobal Network Opertaion Centre (GNOC)-Gobal Network Opertaion Centre (GNOC) deleted |-| IP: 10.56.11.117 |-| @1526549011.14
+
+Time : 13:08:05
+User: aalqaydi |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.11.117 |-| @1526548085.249
+
+Time : 10:16:45
+User: alhammadi |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.207 |-| @1526537805.0702
+
+Time : 10:16:27
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :129 Edit with values webid=6& role : 2 |-| IP: 10.56.10.207 |-| @1526537787.0268
+
+Time : 10:16:25
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :129 Edit with values webid=15& role : 2 |-| IP: 10.56.10.207 |-| @1526537785.1868
+
+Time : 10:15:50
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.207 |-| @1526537750.3951
+
+Time : 10:09:47
+User: mohtamimi |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.95 |-| @1526537387.3688
+
+Time : 10:02:57
+User: mohtamimi |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.95 |-| @1526536977.7466
+
+Time : 10:00:15
+User: mohtamimi |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.95 |-| @1526536815.8783
+
+Time : 09:17:16
+User: halraeesi |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.124 |-| @1526534236.5535
+
+Time : 09:15:36
+User: halraeesi |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.124 |-| @1526534136.2235
+
+Time : 08:42:53
+User: mgounder |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.119 |-| @1526532173.0686
+
+Time : 08:12:55
+User: mgounder |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.119 |-| @1526530375.4756

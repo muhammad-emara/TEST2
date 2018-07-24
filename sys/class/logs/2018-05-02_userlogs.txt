@@ -1,0 +1,110 @@
+Time : 21:36:45
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :192  |-| IP: ::1 |-| @1525282605.4202
+
+Time : 16:02:56
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525262576.9492
+
+Time : 16:02:26
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525262546.6859
+
+Time : 16:02:08
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525262528.9547
+
+Time : 16:01:46
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525262506.6635
+
+Time : 16:00:20
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525262420.1216
+
+Time : 15:58:24
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525262304.4495
+
+Time : 15:56:43
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525262203.5554
+
+Time : 15:56:32
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525262192.2653
+
+Time : 15:56:17
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525262177.7652
+
+Time : 15:55:35
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525262135.0078
+
+Time : 15:52:03
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525261923.7031
+
+Time : 15:50:55
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525261855.7764
+
+Time : 15:50:22
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525261822.1261
+
+Time : 15:50:00
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525261800.6249
+
+Time : 15:49:38
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525261778.2946
+
+Time : 15:49:13
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525261753.8134
+
+Time : 15:47:42
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525261662.5815
+
+Time : 15:45:30
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525261530.5137
+
+Time : 15:45:00
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525261500.0834
+
+Time : 15:44:24
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525261464.8635
+
+Time : 15:43:54
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525261434.9902
+
+Time : 15:42:27
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525261347.0303
+
+Time : 15:42:02
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525261322.4171
+
+Time : 15:41:52
+User: mohemara |-| actionType: Delete Stock |-| ActionDetail:  Delete success  |-| Called From: Stock ID :15227 deleted |-| IP: ::1 |-| @1525261312.947
+
+Time : 15:39:44
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525261184.6127
+
+Time : 15:14:26
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525259666.8577
+
+Time : 15:13:54
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525259634.7942
+
+Time : 15:10:39
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525259439.4111
+
+Time : 15:09:17
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525259357.9347
+
+Time : 15:08:54
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525259334.4166
+
+Time : 15:07:23
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525259243.6104
+
+Time : 15:07:01
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525259221.6248
+
+Time : 15:06:16
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525259176.0081
+
+Time : 15:04:51
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525259091.8923
+
+Time : 15:04:12
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525259052.0869
+
+Time : 14:52:05
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: ::1 |-| @1525258325.2866

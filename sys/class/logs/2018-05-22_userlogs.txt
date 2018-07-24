@@ -1,0 +1,2 @@
+Time : 08:32:05
+User: alhammadi |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.207 |-| @1526963525.6356

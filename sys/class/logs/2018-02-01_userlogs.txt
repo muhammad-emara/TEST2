@@ -1,0 +1,41 @@
+Time : 09:32:08
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15210  |-| IP: 10.56.10.81 |-| @1517463128.692
+
+Time : 09:11:14
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15207  |-| IP: 10.56.10.81 |-| @1517461874.4164
+
+Time : 08:58:14
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15206  |-| IP: 10.56.10.81 |-| @1517461094.3796
+
+Time : 08:36:00
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.81 |-| @1517459760.5673
+
+Time : 08:34:21
+User: sojohn |-| actionType: Stock upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `Model`, `device_Serial`, `LPO`, `AddBy`) VALUES ("cisco1941/k9","test1sojan1", "1testsojan", "sojohn"),("cisco1941/k9","test1sojan2", "1testsojan", "sojohn"),("cisco1941/k9","test1sojan3", "1testsojan", "sojohn"),("cisco1941/k9","test1sojan4", "1testsojan", "sojohn"),("cisco2911/k9","test1sojan5", "1testsojan", "sojohn"),("cisco2951/k9","test1sojan6", "1testsojan", "sojohn"),("cisco2960","test1sojan7", "1testsojan", "sojohn")  |-| IP: 10.56.10.81 |-| @1517459661.1623
+
+Time : 08:32:25
+User: sojohn |-| actionType: Delete Stock |-| ActionDetail:  Delete success  |-| Called From: Stock ID :15205 deleted |-| IP: 10.56.10.81 |-| @1517459545.0491
+
+Time : 08:32:11
+User: sojohn |-| actionType: Delete Stock |-| ActionDetail:  Delete success  |-| Called From: Stock ID :15204 deleted |-| IP: 10.56.10.81 |-| @1517459531.599
+
+Time : 08:31:48
+User: sojohn |-| actionType: Delete Stock |-| ActionDetail:  Delete success  |-| Called From: Stock ID :15203 deleted |-| IP: 10.56.10.81 |-| @1517459508.1487
+
+Time : 08:31:18
+User: sojohn |-| actionType: Delete Stock |-| ActionDetail:  Delete success  |-| Called From: Stock ID :15202 deleted |-| IP: 10.56.10.81 |-| @1517459478.7184
+
+Time : 08:29:46
+User: sojohn |-| actionType: Edit Order |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.81 |-| @1517459386.5755
+
+Time : 08:05:06
+User: sojohn |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.81 |-| @1517457906.9237
+
+Time : 07:40:11
+User: sojohn |-| actionType: Stock upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `Model`, `device_Serial`, `LPO`, `AddBy`) VALUES ("cisco1941/k9","test1sojan1", "1testsojan", "sojohn"),("cisco2911/k9","test1sojan2", "1testsojan", "sojohn"),("cisco2951/k9","test1sojan3", "1testsojan", "sojohn"),("cisco2960","test1sojan4", "1testsojan", "sojohn")  |-| IP: 10.56.10.81 |-| @1517456411.5193
+
+Time : 07:37:07
+User: sojohn |-| actionType: Order upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_order`( DeviceType,`customer_name`, `po_id`, `vendor`, `RouterClass`, `router_model`, `description`, `po_qty`, `cear_id`, `req_by`, `Req_date`, `po_date`, `EDD`,`sicet_type`, `hw_price`, `install_charge`, `support_charge`, `user_add`) VALUES ("Router","Test sojan","1Testsojan", "Testemircom", "Standard", "cisco1941/k9", "Testsojan", 1, "HO-1410", "UAT", "2018-01-31 00:00:00", "2018-01-25 00:00:00", "01/02/2018", "SICET2A", "100", "50", "30", "sojohn"),("Router","Test sojan","1Testsojan", "Testemircom", "Standard", "cisco2911/k9", "Testsojan", 1, "HO-1410", "UAT", "2018-01-31 00:00:00", "2018-01-25 00:00:00", "01/02/2018", "SICET2A", "80", "40", "40", "sojohn"),("Router","Test sojan","1Testsojan", "Testemircom", "Standard", "cisco2951/k9", "Testsojan", 1, "HO-1410", "UAT", "2018-01-31 00:00:00", "2018-01-25 00:00:00", "01/02/2018", "SICET2A", "75", "30", "20", "sojohn"),("Switch","Test sojan","1Testsojan", "Testemircom", "Standard", "cisco2960", "Testsojan", 1, "HO-1410", "UAT", "2018-01-31 00:00:00", "2018-01-25 00:00:00", "01/02/2018", "SICET2A", "50", "25", "10", "sojohn")  |-| IP: 10.56.10.81 |-| @1517456227.8855
+
+Time : 07:25:23
+User: sojohn |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.81 |-| @1517455523.5824

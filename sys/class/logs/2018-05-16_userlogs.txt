@@ -1,0 +1,158 @@
+Time : 21:39:41
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :250 Edit with values webid=15& role : 2 |-| IP: 10.56.10.180 |-| @1526492381.6593
+
+Time : 21:31:07
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.180 |-| @1526491867.3502
+
+Time : 21:31:01
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Faild login |-| Called From: users Class |-| IP: 10.56.10.180 |-| @1526491861.3001
+
+Time : 19:47:39
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :35 Edit with values webid=6& role : 2 |-| IP: ::1 |-| @1526485659.4218
+
+Time : 19:47:37
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :35 Edit with values webid=15& role : 2 |-| IP: ::1 |-| @1526485657.7018
+
+Time : 19:46:55
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :22 Edit with values webid=14& role : 2 |-| IP: ::1 |-| @1526485615.6499
+
+Time : 19:46:50
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :22 Edit with values webid=14& role : 2 |-| IP: ::1 |-| @1526485610.6298
+
+Time : 19:46:42
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :22 Edit with values webid=7& role : 2 |-| IP: ::1 |-| @1526485602.7187
+
+Time : 19:46:40
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :22 Edit with values webid=10& role : 2 |-| IP: ::1 |-| @1526485600.6986
+
+Time : 19:46:38
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :22 Edit with values webid=8& role : 2 |-| IP: ::1 |-| @1526485598.4586
+
+Time : 19:46:36
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :22 Edit with values webid=8& role : 2 |-| IP: ::1 |-| @1526485596.9086
+
+Time : 19:46:34
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :22 Edit with values webid=6& role : 2 |-| IP: ::1 |-| @1526485594.7385
+
+Time : 19:46:31
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :22 Edit with values webid=5& role : 2 |-| IP: ::1 |-| @1526485591.7585
+
+Time : 19:46:28
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :22 Edit with values webid=9& role : 2 |-| IP: ::1 |-| @1526485588.3874
+
+Time : 19:46:26
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :22 Edit with values webid=15& role : 2 |-| IP: ::1 |-| @1526485586.7474
+
+Time : 19:46:24
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :22 Edit with values webid=11& role : 2 |-| IP: ::1 |-| @1526485584.3273
+
+Time : 19:45:40
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :251 Edit with values webid=15& role : 2 |-| IP: ::1 |-| @1526485540.5954
+
+Time : 19:45:38
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :251 Edit with values webid=11& role : 2 |-| IP: ::1 |-| @1526485538.2754
+
+Time : 19:44:44
+User: mohemara |-| actionType: Add User |-| ActionDetail: Success Add |-| Called From: users Name :ksingh2 |-| IP: ::1 |-| @1526485484.4733
+
+Time : 19:44:18
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :23 Edit with values webid=3& role : 2 |-| IP: ::1 |-| @1526485458.1028
+
+Time : 19:44:14
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :23 Edit with values webid=14& role : 2 |-| IP: ::1 |-| @1526485454.4827
+
+Time : 19:44:10
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :23 Edit with values webid=4& role : 2 |-| IP: ::1 |-| @1526485450.3926
+
+Time : 19:44:07
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :23 Edit with values webid=7& role : 2 |-| IP: ::1 |-| @1526485447.7526
+
+Time : 19:44:04
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :23 Edit with values webid=10& role : 2 |-| IP: ::1 |-| @1526485444.7325
+
+Time : 19:44:01
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :23 Edit with values webid=8& role : 2 |-| IP: ::1 |-| @1526485441.4225
+
+Time : 19:43:58
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :23 Edit with values webid=6& role : 2 |-| IP: ::1 |-| @1526485438.6724
+
+Time : 19:43:56
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :23 Edit with values webid=5& role : 2 |-| IP: ::1 |-| @1526485436.3724
+
+Time : 19:43:54
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :23 Edit with values webid=9& role : 2 |-| IP: ::1 |-| @1526485434.4723
+
+Time : 19:43:52
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :23 Edit with values webid=15& role : 2 |-| IP: ::1 |-| @1526485432.5323
+
+Time : 19:43:50
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :23 Edit with values webid=11& role : 2 |-| IP: ::1 |-| @1526485430.5822
+
+Time : 19:43:02
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :74 Edit with values webid=15& role : 2 |-| IP: ::1 |-| @1526485382.3983
+
+Time : 19:42:41
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :88 Edit with values webid=14& role : 2 |-| IP: ::1 |-| @1526485361.4379
+
+Time : 19:42:39
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :88 Edit with values webid=4& role : 2 |-| IP: ::1 |-| @1526485359.0278
+
+Time : 19:42:36
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :88 Edit with values webid=10& role : 2 |-| IP: ::1 |-| @1526485356.1968
+
+Time : 19:42:32
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :88 Edit with values webid=15& role : 2 |-| IP: ::1 |-| @1526485352.2167
+
+Time : 19:41:55
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :100 Edit with values webid=15& role : 2 |-| IP: ::1 |-| @1526485315.0159
+
+Time : 19:41:23
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :99 Edit with values webid=15& role : 2 |-| IP: ::1 |-| @1526485283.0643
+
+Time : 19:40:59
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :21 Edit with values webid=15& role : 2 |-| IP: ::1 |-| @1526485259.0938
+
+Time : 13:23:08
+User: mohemara |-| actionType: Delete Cap Mapower utiliti |-| ActionDetail: Success Delete |-| Called From: Resource ID :Fax-Fax deleted |-| IP: ::1 |-| @1526462588.7043
+
+Time : 12:24:44
+User: mohemara |-| actionType: Delete Cap Mapower utiliti |-| ActionDetail: Success Delete |-| Called From: Resource ID :- deleted |-| IP: ::1 |-| @1526459084.1689
+
+Time : 11:34:23
+User: mohemara |-| actionType: Delete Cap Mapower utiliti |-| ActionDetail: Success Delete |-| Called From: Resource ID :CNOC Service Desk-CNOC Service Desk deleted |-| IP: ::1 |-| @1526456063.1409
+
+Time : 08:16:35
+User: mohemara |-| actionType: Delete Cap Resource utiliti |-| ActionDetail: Success Delete |-| Called From: Resource ID :Backup Server/Syslog-3 deleted |-| IP: ::1 |-| @1526444195.7232
+
+Time : 08:16:19
+User: mohemara |-| actionType: Delete Cap Resource utiliti |-| ActionDetail: Success Delete |-| Called From: Resource ID :Backup Server/Syslog-2 deleted |-| IP: ::1 |-| @1526444179.4429
+
+Time : 08:16:03
+User: mohemara |-| actionType: Delete Cap Resource utiliti |-| ActionDetail: Success Delete |-| Called From: Resource ID :Backup Server/Syslog-1 deleted |-| IP: ::1 |-| @1526444163.6216
+
+Time : 08:07:57
+User: mohemara |-| actionType: Delete Cap Resource utiliti |-| ActionDetail: Success Delete |-| Called From: Resource ID :Backup Server/Syslog-mss-zbl-uc-ra<br ></i>
+AC - 1444994688<br />
+PE: DXB-BSD-D7O<br />
+port BW : 100 MB<br />
+port Account : 1444994115                                    <br />
+                                 deleted |-| IP: ::1 |-| @1526443677.7308
+
+Time : 07:23:56
+User: mohemara |-| actionType: Delete Cap Resource utiliti |-| ActionDetail: Success Delete |-| Called From: Resource ID :Backup Server/Syslog-mss-zbl-uc-ra&lt;br &gt;&lt;/i&gt;
+AC - 1444994688&lt;br /&gt;
+PE: DXB-BSD-D7O&lt;br /&gt;
+port BW : 100 MB&lt;br /&gt;
+port Account : 1444994115                                    &lt;br /&gt;
+                                 deleted |-| IP: ::1 |-| @1526441036.6392
+
+Time : 07:23:39
+User: mohemara |-| actionType: Delete Cap Resource utiliti |-| ActionDetail: Success Delete |-| Called From: Resource ID :Backup Server/Syslog-mss-zbl-uc-ra&lt;br &gt;&lt;/i&gt;
+AC - 1444994688&lt;br /&gt;
+PE: DXB-BSD-D7O&lt;br /&gt;
+port BW : 100 MB&lt;br /&gt;
+port Account : 1444994115                                    &lt;br /&gt;
+                                 deleted |-| IP: ::1 |-| @1526441019.2813
+
+Time : 07:04:40
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: ::1 |-| @1526439880.1629

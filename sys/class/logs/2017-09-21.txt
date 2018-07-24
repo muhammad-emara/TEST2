@@ -1,0 +1,19 @@
+Time : 19:07:55
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'LPO' in 'where clause'
+Raw SQL : SELECT * FROM lpo_model_invoice_paid_v where  LPO='1079353-0'
+
+Time : 16:44:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY `avilable_stock`.`Order QTY` ASC' at line 1
+Raw SQL : SELECT * FROM avilable_stock where   ORDER BY `avilable_stock`.`Order QTY` ASC
+
+Time : 16:41:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY `avilable_stock`.`Order QTY` ASC' at line 1
+Raw SQL : SELECT * FROM avilable_stock where   ORDER BY `avilable_stock`.`Order QTY` ASC
+
+Time : 16:38:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY `avilable_stock`.`Order QTY` ASC' at line 1
+Raw SQL : SELECT * FROM avilable_stock where   ORDER BY `avilable_stock`.`Order QTY` ASC
+
+Time : 12:30:21
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO `stock_qp_renew_invoice`(`q_num`, `year`, `doc_number`, `auth_code`, `manual_amount`, `device_sr`, `host_name`, `mss_accountNum`, `Account_status`, `model`, `service`, `SLA`, `cust_name`, `loaction`, `RFS_date`, `enroll_date`, `add_by`) VALUES ("Q1","2015", "invnum", "authcode", "6", "3631j143e17", "mss-accountnumber", "active", "sl-4320-sec-k9=", "mrwan", "sla", "adcb", "dxb", "2017-06-25", "2017-07-01", "mohemara"),("Q1","2015", "invnum", "authcode", "6", "3631j120abb", "mss-accountnumber", "active", "sl-4320-sec-k9=", "mrwan", "sla", "adcb", "dxb", "2017-08-26", "2017-10-01", "mohemara")

@@ -1,0 +1,89 @@
+Time : 16:15:21
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15284  |-| IP: 10.56.10.81 |-| @1526300121.0095
+
+Time : 16:14:53
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15283  |-| IP: 10.56.10.81 |-| @1526300093.5179
+
+Time : 16:14:38
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15282  |-| IP: 10.56.10.81 |-| @1526300078.1076
+
+Time : 16:14:20
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15281  |-| IP: 10.56.10.81 |-| @1526300060.8373
+
+Time : 15:46:02
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15277  |-| IP: 10.56.10.81 |-| @1526298362.6883
+
+Time : 15:45:16
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15276  |-| IP: 10.56.10.81 |-| @1526298316.6154
+
+Time : 15:44:05
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15275  |-| IP: 10.56.10.81 |-| @1526298245.672
+
+Time : 15:43:22
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15274  |-| IP: 10.56.10.81 |-| @1526298202.2111
+
+Time : 12:24:55
+User: mohemara |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.81 |-| @1526286295.1206
+
+Time : 11:44:12
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: 10.56.10.81 |-| @1526283852.1692
+
+Time : 11:41:47
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: 10.56.10.81 |-| @1526283707.4447
+
+Time : 11:40:42
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: 10.56.10.81 |-| @1526283642.3742
+
+Time : 11:40:09
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: 10.56.10.81 |-| @1526283609.1134
+
+Time : 11:35:31
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15278  |-| IP: 10.56.10.81 |-| @1526283331.5562
+
+Time : 11:35:01
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15280  |-| IP: 10.56.10.81 |-| @1526283301.4456
+
+Time : 11:34:32
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15285  |-| IP: 10.56.10.81 |-| @1526283272.9595
+
+Time : 11:28:05
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15273  |-| IP: 10.56.10.81 |-| @1526282885.1808
+
+Time : 11:23:19
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: 10.56.10.81 |-| @1526282599.1543
+
+Time : 11:12:53
+User: mohemara |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.81 |-| @1526281973.3781
+
+Time : 10:59:20
+User: mohemara |-| actionType:  New Stock_Order |-| ActionDetail: Succes add   |-| Called From: 0 |-| IP: 10.56.10.81 |-| @1526281160.3942
+
+Time : 10:55:21
+User: mohemara |-| actionType: Order upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_order`( DeviceType,`customer_name`, `po_id`, `vendor`, `RouterClass`, `router_model`, `description`, `po_qty`, `cear_id`, `req_by`, `Req_date`, `po_date`, `EDD`,`sicet_type`, `hw_price`, `install_charge`, `support_charge`, `user_add`) VALUES ("Router","UATCUST","112233", "Testvendor1", "Standard", "cisco1941/k9", "Forecast", 5, "TEST2312", "SA-BS", "2018-03-01 00:00:00", "2017-05-01 00:00:00", "15-May-18", "A", "100", "20", "15", "mohemara"),("Router","UATCUST","112233", "Testvendor1", "Standard", "isr4431", "Forecast", 2, "TEST2312", "SA-BS", "2018-03-01 00:00:00", "2017-05-01 00:00:00", "15-May-18", "A", "150", "30", "40", "mohemara"),("Router","UATCUST","112233", "Testvendor1", "Standard", "cisco2921", "Forecast", 4, "TEST2312", "SA-BS", "2018-03-01 00:00:00", "2017-05-01 00:00:00", "15-May-18", "A", "50", "10", "15", "mohemara")  |-| IP: 10.56.10.81 |-| @1526280921.448
+
+Time : 10:43:38
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.81 |-| @1526280218.4495
+
+Time : 10:42:54
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Faild login |-| Called From: users Class |-| IP: 10.56.10.81 |-| @1526280174.4099
+
+Time : 09:27:06
+User: mohemara |-| actionType: Edit RFS Certificate |-| ActionDetail: Faild Edit |-| Called From: Device ID  :cisco2921test2 |-| IP: ::1 |-| @1526275626.5448
+
+Time : 09:27:03
+User: mohemara |-| actionType: Edit RFS Certificate |-| ActionDetail: Faild Edit |-| Called From: Device ID  :cisco2921test2 |-| IP: ::1 |-| @1526275623.3935
+
+Time : 09:21:11
+User: mohemara |-| actionType: Edit RFS Certificate |-| ActionDetail: Faild Edit |-| Called From: Device ID  :cisco2921test2 |-| IP: ::1 |-| @1526275271.4685
+
+Time : 09:07:16
+User: mohemara |-| actionType: Edit RFS Certificate |-| ActionDetail: Faild Edit |-| Called From: Device ID  :cisco2921test2 |-| IP: ::1 |-| @1526274436.6725
+
+Time : 09:06:46
+User: mohemara |-| actionType: Edit RFS Certificate |-| ActionDetail: Faild Edit |-| Called From: Device ID  :cisco2921test2 |-| IP: ::1 |-| @1526274406.2053
+
+Time : 09:02:43
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15265  |-| IP: ::1 |-| @1526274163.1356
+
+Time : 09:01:31
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15264  |-| IP: ::1 |-| @1526274091.2392

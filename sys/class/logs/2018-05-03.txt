@@ -1,0 +1,11 @@
+Time : 10:59:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Raw SQL : INSERT INTO `stock_rfs_data`(`LPO`, `model`, `devices_serial`, `host_name`, `RFS_date`,enroll_date, `account_status`, `contracutal_RFS_Date`, `RFS_Request_Number`, `add_by`) VALUES
+
+Time : 08:11:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Raw SQL : INSERT INTO `stock_rfs_data`(`LPO`, `model`, `devices_serial`, `host_name`, `RFS_date`,enroll_date, `account_status`, `contracutal_RFS_Date`, `RFS_Request_Number`, `add_by`) VALUES
+
+Time : 06:54:13
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : SELECT count(*) FROM stock_hwp_invoice WHERE  auth_code=:auth_code

@@ -1,0 +1,3 @@
+Time : 20:01:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Al ready Insatlled" END AS stus FROM `stock_stockdata_v` as ssd_v left join stoc' at line 1
+Raw SQL : SELECT ssd_v.`stock_ID`, ssd_v.`router_model`, ssd_v.`vendor`, ssd_v.`po_id`, CASE WHEN si.stock_ref IS NULL THEN "Available: ELSE "Al ready Insatlled" END AS stus FROM `stock_stockdata_v` as ssd_v left join stock_installation si ON si.stock_ref=ssd_v.stock_ID WHERE ssd_v.device_Serial=:ser

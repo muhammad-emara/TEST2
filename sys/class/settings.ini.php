@@ -1,0 +1,6 @@
+;<?php return; ?>
+[SQL]
+host =localhost
+user =root
+password =M$$P@ssw0rd
+dbname =mss_life_db

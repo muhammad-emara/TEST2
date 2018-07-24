@@ -1,0 +1,158 @@
+Time : 15:22:07
+User: mohemara |-| actionType: Edit RFS Certificate |-| ActionDetail: Faild Edit |-| Called From: Device ID  :9999 |-| IP: 10.56.10.81 |-| @1531308127.7618
+
+Time : 15:22:07
+User: mohemara |-| actionType: Edit RFS Certificate |-| ActionDetail: Faild Edit |-| Called From: Device ID  :9999 |-| IP: 10.56.10.81 |-| @1531308127.7618
+
+Time : 15:22:07
+User: mohemara |-| actionType: Edit RFS Certificate |-| ActionDetail: Faild Edit |-| Called From: Device ID  :9999 |-| IP: 10.56.10.81 |-| @1531308127.7618
+
+Time : 15:21:57
+User: mohemara |-| actionType: Edit RFS Certificate |-| ActionDetail: Faild Edit |-| Called From: Device ID  :9999 |-| IP: 10.56.10.81 |-| @1531308117.138
+
+Time : 15:21:57
+User: mohemara |-| actionType: Edit RFS Certificate |-| ActionDetail: Faild Edit |-| Called From: Device ID  :9999 |-| IP: 10.56.10.81 |-| @1531308117.1224
+
+Time : 15:21:57
+User: mohemara |-| actionType: Edit RFS Certificate |-| ActionDetail: Faild Edit |-| Called From: Device ID  :9999 |-| IP: 10.56.10.81 |-| @1531308117.1224
+
+Time : 15:21:57
+User: mohemara |-| actionType: Edit RFS Certificate |-| ActionDetail: Faild Edit |-| Called From: Device ID  :9999 |-| IP: 10.56.10.81 |-| @1531308117.1068
+
+Time : 14:53:15
+User: mohemara |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.81 |-| @1531306395.2501
+
+Time : 12:37:49
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :@q |-| IP: 10.56.10.81 |-| @1531298269.0905
+
+Time : 12:37:49
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :0k{v0 |-| IP: 10.56.10.81 |-| @1531298269.0593
+
+Time : 12:37:49
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :w |-| IP: 10.56.10.81 |-| @1531298269.0281
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :h-b |-| IP: 10.56.10.81 |-| @1531298268.9969
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  : |-| IP: 10.56.10.81 |-| @1531298268.9657
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  := |-| IP: 10.56.10.81 |-| @1531298268.9345
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  : |-| IP: 10.56.10.81 |-| @1531298268.9033
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :.y-v |-| IP: 10.56.10.81 |-| @1531298268.8721
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :x3 |-| IP: 10.56.10.81 |-| @1531298268.8565
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :pbf |-| IP: 10.56.10.81 |-| @1531298268.8253
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :@_c |-| IP: 10.56.10.81 |-| @1531298268.7941
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :p3: |-| IP: 10.56.10.81 |-| @1531298268.7629
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :fc |-| IP: 10.56.10.81 |-| @1531298268.7317
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :t |-| IP: 10.56.10.81 |-| @1531298268.7005
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :g |-| IP: 10.56.10.81 |-| @1531298268.6693
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :4df |-| IP: 10.56.10.81 |-| @1531298268.6381
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  : |-| IP: 10.56.10.81 |-| @1531298268.6069
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :39 |-| IP: 10.56.10.81 |-| @1531298268.5913
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :*k7 |-| IP: 10.56.10.81 |-| @1531298268.5445
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  : |-| IP: 10.56.10.81 |-| @1531298268.5133
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :o |-| IP: 10.56.10.81 |-| @1531298268.4821
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :. |-| IP: 10.56.10.81 |-| @1531298268.4509
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :_ |-| IP: 10.56.10.81 |-| @1531298268.4353
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :w |-| IP: 10.56.10.81 |-| @1531298268.4041
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  : |-| IP: 10.56.10.81 |-| @1531298268.3729
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :!ag |-| IP: 10.56.10.81 |-| @1531298268.3417
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  : |-| IP: 10.56.10.81 |-| @1531298268.3105
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  : |-| IP: 10.56.10.81 |-| @1531298268.2793
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  : |-| IP: 10.56.10.81 |-| @1531298268.2481
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :. |-| IP: 10.56.10.81 |-| @1531298268.2169
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :/ |-| IP: 10.56.10.81 |-| @1531298268.1857
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :v&lt; |-| IP: 10.56.10.81 |-| @1531298268.1545
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :v |-| IP: 10.56.10.81 |-| @1531298268.1233
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :h |-| IP: 10.56.10.81 |-| @1531298268.0921
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  : |-| IP: 10.56.10.81 |-| @1531298268.0609
+
+Time : 12:37:48
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :j |-| IP: 10.56.10.81 |-| @1531298268.0297
+
+Time : 12:37:47
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  : |-| IP: 10.56.10.81 |-| @1531298267.9985
+
+Time : 12:33:04
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15297  |-| IP: 10.56.10.81 |-| @1531297984.7604
+
+Time : 12:31:33
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15293  |-| IP: 10.56.10.81 |-| @1531297893.8389
+
+Time : 12:28:06
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15286  |-| IP: 10.56.10.81 |-| @1531297686.4665
+
+Time : 12:20:04
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15291  |-| IP: 10.56.10.81 |-| @1531297204.8844
+
+Time : 12:14:18
+User: mohemara |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.81 |-| @1531296858.3434
+
+Time : 12:04:57
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: 10.56.10.81 |-| @1531296297.4048
+
+Time : 11:45:05
+User: mohemara |-| actionType: Order upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_order`( DeviceType,`customer_name`, `po_id`, `vendor`, `RouterClass`, `router_model`, `description`, `po_qty`, `cear_id`, `req_by`, `Req_date`, `po_date`, `EDD`,`sicet_type`, `hw_price`, `install_charge`, `support_charge`, `user_add`) VALUES ("Router","Final UAT","9999", "SREEKANTH", "Standard", "cisco1941/k9", "Forecast", 5, "SREE11", "SA-BS", "2018-03-01 00:00:00", "2017-05-01 00:00:00", "15-May-18", "A", "600", "80", "200", "mohemara"),("Router","Final UAT","9999", "SREEKANTH", "Standard", "isr4431", "Forecast", 2, "SREE11", "SA-BS", "2018-03-01 00:00:00", "2017-05-01 00:00:00", "15-May-18", "A", "400", "60", "100", "mohemara"),("Router","Final UAT","9999", "SREEKANTH", "Standard", "cisco2921", "Forecast", 4, "SREE11", "SA-BS", "2018-03-01 00:00:00", "2017-05-01 00:00:00", "15-May-18", "A", "200", "40", "100", "mohemara"),("Router","Final UAT","9999", "SREEKANTH", "Standard", "cisco7606", "Forecast", 1, "SREE11", "SA-BS", "2018-03-01 00:00:00", "2017-05-01 00:00:00", "15-May-18", "A", "100", "20", "100", "mohemara")  |-| IP: 10.56.10.81 |-| @1531295105.2161
+
+Time : 11:00:43
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.81 |-| @1531292443.7545

@@ -1,0 +1,68 @@
+Time : 14:22:28
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15237  |-| IP: 10.56.10.180 |-| @1525602148.4586
+
+Time : 14:22:20
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15236  |-| IP: 10.56.10.180 |-| @1525602140.9392
+
+Time : 14:22:17
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15236  |-| IP: 10.56.10.180 |-| @1525602137.1786
+
+Time : 14:20:56
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15236  |-| IP: 10.56.10.180 |-| @1525602056.2886
+
+Time : 14:20:23
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15235  |-| IP: 10.56.10.180 |-| @1525602023.934
+
+Time : 14:20:21
+User: mohemara |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.180 |-| @1525602021.1104
+
+Time : 14:13:21
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: 10.56.10.180 |-| @1525601601.8079
+
+Time : 14:12:32
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: 10.56.10.180 |-| @1525601552.8716
+
+Time : 14:05:56
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: 10.56.10.180 |-| @1525601156.2601
+
+Time : 14:04:59
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: 10.56.10.180 |-| @1525601099.296
+
+Time : 14:04:21
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: 10.56.10.180 |-| @1525601061.1709
+
+Time : 14:00:11
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Faild upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: 10.56.10.180 |-| @1525600811.8103
+
+Time : 13:59:53
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `LPO`,`Model`, `device_Serial`,`AddBy`) select sdt.`LPO`,sdt.Model,sdt.device_Serial,"mohemara" from stock_data_temp as sdt left join order_model_exclude_v as ome_v ON sdt.LPO=ome_v.LPO and sdt.Model=ome_v.Model left join stock_stockdata ssd ON sdt.device_Serial=ssd.device_Serial where ome_v.LPO is Null and ssd.device_Serial is null  |-| IP: 10.56.10.180 |-| @1525600793.8948
+
+Time : 13:57:32
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.180 |-| @1525600652.3253
+
+Time : 13:43:38
+User: mohemara |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.55 |-| @1525599818.7956
+
+Time : 13:43:33
+User: mohemara |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.55 |-| @1525599813.1474
+
+Time : 13:43:30
+User: mohemara |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.55 |-| @1525599810.9166
+
+Time : 13:38:30
+User: mohemara |-| actionType:  New Stock Order Remark |-| ActionDetail: Succes ad d  |-| Called From: DATA :remark =>adadadad, by => mohemara,  for activityId =>2639 |-| IP: 10.56.10.55 |-| @1525599510.4235
+
+Time : 13:38:26
+User: mohemara |-| actionType:  New Stock Order Remark |-| ActionDetail: Succes ad d  |-| Called From: DATA :remark =>asdasdadad, by => mohemara,  for activityId =>2639 |-| IP: 10.56.10.55 |-| @1525599506.5702
+
+Time : 13:38:22
+User: mohemara |-| actionType:  New Stock Order Remark |-| ActionDetail: Succes ad d  |-| Called From: DATA :remark =>asdasdasedae, by => mohemara,  for activityId =>2639 |-| IP: 10.56.10.55 |-| @1525599502.3415
+
+Time : 13:37:07
+User: mohemara |-| actionType:  New Stock_Order |-| ActionDetail: Succes add   |-| Called From: 0 |-| IP: 10.56.10.55 |-| @1525599427.6517
+
+Time : 13:32:46
+User: mohemara |-| actionType:  New Stock_Order |-| ActionDetail: Succes add   |-| Called From: 0 |-| IP: 10.56.10.55 |-| @1525599166.9601
+
+Time : 13:26:18
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.55 |-| @1525598777.9909

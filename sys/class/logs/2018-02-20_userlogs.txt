@@ -1,0 +1,11 @@
+Time : 14:26:09
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15209  |-| IP: 10.56.10.81 |-| @1519122369.7373
+
+Time : 14:24:01
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15208  |-| IP: 10.56.10.81 |-| @1519122241.6301
+
+Time : 14:23:02
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15208  |-| IP: 10.56.10.81 |-| @1519122182.8181
+
+Time : 12:53:07
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.81 |-| @1519116787.2936

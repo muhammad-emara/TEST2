@@ -1,0 +1,88 @@
+Time : 14:18:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'h.doc_number rfs_inv,
+  h.auth_code rfs_auth,
+  h.manual_amount rfs_amount_manua' at line 32
+Raw SQL : SELECT DISTINCT
+  a.po_id,
+  a.po_date,
+  a.vendor,
+  a.sicet_type,
+  a.router_model,
+  a.po_qty,
+  a.hw_price,
+  a.install_charge,
+  a.support_charge,
+  b.device_Serial,
+  (a.hw_price / a.po_qty) unite_price,
+  (a.install_charge / a.po_qty) uint_installation_price,
+  (a.support_charge / a.po_qty) Unit_support_charge,
+  c.manual_amount delivery_cost_manual,
+  c.device_sr hw_inv_device_sr,
+  c.doc_number hw_inv,
+  c.auth_code hw_auth,
+  d.hw_paid hw_paid_qty,
+  f.inst_id,
+  f.installation_date,
+  f.`MARWAN_SR` install_sr,
+  f.`MARWAN_acc` install_acc,
+  g.host_name,
+  g.`RFS_date`,
+  g.enroll_date,
+  g.account_status,
+  g.`contracutal_RFS_Date`,
+  g.`RFS_Request_Number`,
+  g.`RFS_cert`,
+  h.device_sr rfs_device_sr
+  h.doc_number rfs_inv,
+  h.auth_code rfs_auth,
+  h.manual_amount rfs_amount_manual,
+  i.rfs_devices_count rfs_qty,
+  j.auth_code pac_auth,
+  j.`PAC_ref`,
+  j.`PAC_req_num`,
+  j.manual_amount pac_total,
+  k.manual_amount AS pac_value_maual,
+  k.dev_count pac_count,
+  j.doc_number pac_inv,
+  q1.doc_number q1_inv,
+  q1.auth_code q1_auth,
+  q1.manual_amount q1_manual_ammount,
+  q2.doc_number q2_inv,
+  q2.auth_code q2_auth,
+  q2.manual_amount q2_manual_ammount,
+  q3.doc_number q3_inv,
+  q3.auth_code q3_auth,
+  q3.manual_amount q3_manual_ammount,
+  q4.doc_number q4_inv,
+  q4.auth_code q4_auth,
+  q4.manual_amount q4_manual_ammount
+FROM
+  stock_order AS a
+JOIN
+  stock_stockdata AS b ON a.po_id = b.LPO AND a.router_model = b.Model
+LEFT JOIN
+  stock_hwp_invoice c ON c.device_sr = b.`device_Serial`
+LEFT JOIN
+  lpo_model_invoice_count_v d ON d.`LPO` = b.`LPO` AND d.`Model` = b.`Model`
+LEFT JOIN
+  stock_installation f ON f.stock_ref = b.`stock_ID`
+LEFT JOIN
+  stock_rfs_data g ON g.devices_serial = b.`device_Serial`
+LEFT JOIN
+  stock_rfsp_invoice h ON h.device_sr = b.`device_Serial`
+LEFT JOIN
+  stock_rfsed_sn_v i ON i.doc_number = h.doc_number
+LEFT JOIN
+  stock_pacp_invoice j ON j.device_sr = b.`device_Serial`
+LEFT JOIN
+  stock_pacp_sn_v k ON k.doc_number = j.doc_number
+LEFT JOIN
+  stock_qp_invoice q1 ON q1.device_sr = b.`device_Serial` AND(q1.q_num = 'q1' OR q1.q_num = 'Q1')
+LEFT JOIN
+  stock_qp_invoice q2 ON q2.device_sr = b.`device_Serial` AND(q2.q_num = 'q2' OR q2.q_num = 'Q2')
+LEFT JOIN
+  stock_qp_invoice q3 ON q3.device_sr = b.`device_Serial` AND(q3.q_num = 'q3' OR q3.q_num = 'Q3')
+LEFT JOIN
+  stock_qp_invoice q4 ON q4.device_sr = b.`device_Serial` AND(q4.q_num = 'q1' OR q4.q_num = 'Q1')
+WHERE
+  a.po_id = '112233'

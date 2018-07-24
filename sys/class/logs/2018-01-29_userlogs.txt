@@ -1,0 +1,50 @@
+Time : 13:57:03
+User: mohemara |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.55 |-| @1517219823.9405
+
+Time : 13:57:02
+User: mohemara |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.55 |-| @1517219822.6584
+
+Time : 13:57:01
+User: mohemara |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.55 |-| @1517219821.2084
+
+Time : 13:53:57
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15201  |-| IP: 10.56.10.55 |-| @1517219637.1916
+
+Time : 13:53:35
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15199  |-| IP: 10.56.10.55 |-| @1517219615.5123
+
+Time : 13:47:43
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15198  |-| IP: 10.56.10.55 |-| @1517219263.5367
+
+Time : 13:42:36
+User: mohemara |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.55 |-| @1517218956.854
+
+Time : 13:42:35
+User: mohemara |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.55 |-| @1517218955.912
+
+Time : 13:42:34
+User: mohemara |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.55 |-| @1517218954.4879
+
+Time : 13:42:32
+User: mohemara |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.55 |-| @1517218952.1039
+
+Time : 13:42:27
+User: mohemara |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.55 |-| @1517218947.6018
+
+Time : 13:42:22
+User: mohemara |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.55 |-| @1517218942.0137
+
+Time : 13:33:39
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `Model`, `device_Serial`, `LPO`, `AddBy`) VALUES ("cisco1921/k9","fcz1926c1bm", "147852", "mohemara"),("cisco1921/k9","fcz1926c1aa", "147852", "mohemara"),("cisco1921/k9","fcz1828c2guq", "147852", "mohemara"),("cisco1921/k9","fcz1828c2h7a", "147852", "mohemara")  |-| IP: 10.56.10.55 |-| @1517218419.2915
+
+Time : 13:28:10
+User: mohemara |-| actionType: Order upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_order`( DeviceType,`customer_name`, `po_id`, `vendor`, `RouterClass`, `router_model`, `description`, `po_qty`, `cear_id`, `req_by`, `Req_date`, `po_date`, `EDD`,`sicet_type`, `hw_price`, `install_charge`, `support_charge`, `user_add`) VALUES ("Router","Test1","147852", "EMIRCOM", "STANDARD", "cisco1921/k9", "Test", 4, "qaz123", "Sojan", "2018-01-01 00:00:00", "2018-01-01 00:00:00", "21-Jan-18", "SICET2A", "400", "100", "100", "mohemara")  |-| IP: 10.56.10.55 |-| @1517218090.0255
+
+Time : 13:11:25
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.55 |-| @1517217085.9092
+
+Time : 13:11:16
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Faild login |-| Called From: users Class |-| IP: 10.56.10.55 |-| @1517217076.6451
+
+Time : 13:00:32
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.180 |-| @1517216432.4141

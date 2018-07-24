@@ -1,0 +1,8 @@
+Time : 08:03:20
+User: ftancio |-| actionType: Delete Cap infra item |-| ActionDetail: Success Delete |-| Called From: poweritem item ID :GSOC L deleted |-| IP: 10.56.11.116 |-| @1526789000.2738
+
+Time : 07:59:14
+User: ftancio |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.11.116 |-| @1526788754.5985
+
+Time : 07:56:47
+User: ftancio |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.11.116 |-| @1526788607.6861

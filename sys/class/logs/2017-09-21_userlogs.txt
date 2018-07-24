@@ -1,0 +1,20 @@
+Time : 17:38:04
+User: mohemara |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: ::1 |-| @1506001084.4661
+
+Time : 14:33:51
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: ::1 |-| @1505990031.4152
+
+Time : 14:33:35
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :178 Edit with values webid=14& role : 2 |-| IP: ::1 |-| @1505990015.9493
+
+Time : 14:33:14
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :1 Edit with values webid=14& role : 2 |-| IP: ::1 |-| @1505989994.5021
+
+Time : 11:55:35
+User: mohemara |-| actionType: Edit Q Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :mss-adcb-xx2;adcb;mss-accountnumber;active;sl-4320-sec-k9=;3631j120abb;mrwan;sla;dxb;26/08/2017;router |-| IP: ::1 |-| @1505980535.7648
+
+Time : 11:55:35
+User: mohemara |-| actionType: Edit Q Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :mss-adcb-xx2;adcb;mss-accountnumber;active;sl-4320-sec-k9=;3631j143e17;mrwan;sla;dxb;25/06/2017;module |-| IP: ::1 |-| @1505980535.7182
+
+Time : 10:16:44
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: ::1 |-| @1505974604.9334

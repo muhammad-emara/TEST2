@@ -1,0 +1,7 @@
+Time : 10:59:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':updated_by ,update_time=CURRENT_TIMESTAMP where device_Serial=?' at line 1
+Raw SQL : UPDATE `stock_stockdata` SET hw_paid=1,updated_by:updated_by ,update_time=CURRENT_TIMESTAMP where device_Serial=:device_Serial
+
+Time : 10:20:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':doc_number or auth_code=?' at line 1
+Raw SQL : SELECT count(*) FROM stock_HWP_invoice WHERE   doc_number:doc_number or auth_code=:auth_code

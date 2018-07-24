@@ -1,0 +1,83 @@
+Time : 19:21:51
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'section_name' in 'field list'
+Raw SQL : SELECT distinct `section_name`, `remarks` FROM `cap_currservicesenario`
+
+Time : 14:51:57
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'CNOC Service desk-manpower' for key 'section_name'
+Raw SQL : INSERT INTO `cap_mgm_mainissue`(`section_name`, `issue_relatedto`, `issues_remark`, `add_by`) VALUES ('CNOC Service desk','manpower','
+&amp;lt;!--StartFragment--&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt;As new Service are being launched more resources will be required.&amp;lt;!--EndFragment--&amp;gt;
+
+','mohemara')
+
+Time : 14:51:51
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'CNOC Service desk-manpower' for key 'section_name'
+Raw SQL : INSERT INTO `cap_mgm_mainissue`(`section_name`, `issue_relatedto`, `issues_remark`, `add_by`) VALUES ('CNOC Service desk','manpower','
+&amp;lt;!--StartFragment--&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt;As new Service are being launched more resources will be required.&amp;lt;!--EndFragment--&amp;gt;
+
+','mohemara')
+
+Time : 13:56:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '),add_time=CURRENT_TIMESTAMP,add_by=VALUES(add_by)' at line 1
+Raw SQL : INSERT INTO `cap_powersectionutli`(`resrc_name`, `currentutilized`,`add_by`) VALUES ('CNOC Service desk','
+&amp;lt;!--StartFragment--&amp;gt;&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Avg. 1500 Emails received by CNOC per day.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Avg. 48 Man Hrs per week&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Avg. 350 Incidents per day (incident reduced as Node UP are auto resolved)&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;
+
+','mohemara') ON DUPLICATE KEY UPDATE currentutilized=VALUES(currentutilized)),add_time=CURRENT_TIMESTAMP,add_by=VALUES(add_by)
+
+Time : 13:56:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '),add_time=CURRENT_TIMESTAMP,add_by=VALUES(add_by)' at line 1
+Raw SQL : INSERT INTO `cap_powersectionutli`(`resrc_name`, `currentutilized`,`add_by`) VALUES ('CNOC Service desk','
+&amp;lt;!--StartFragment--&amp;gt;&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Avg. 1500 Emails received by CNOC per day.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Avg. 48 Man Hrs per week&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Avg. 350 Incidents per day (incident reduced as Node UP are auto resolved)&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;
+
+','mohemara') ON DUPLICATE KEY UPDATE currentutilized=VALUES(currentutilized)),add_time=CURRENT_TIMESTAMP,add_by=VALUES(add_by)
+
+Time : 11:18:12
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO `cap_powerutli`(`resrc_name`, `currentutilized`, `capacity`, `add_by`) VALUES ('CNOC BackOffice','200','200') ON DUPLICATE KEY UPDATE currentutilized=VALUES(currentutilized),capacity=VALUES(capacity),add_time=CURRENT_TIMESTAMP,add_by=VALUES(add_by)
+
+Time : 11:18:08
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO `cap_powerutli`(`resrc_name`, `currentutilized`, `capacity`, `add_by`) VALUES ('CNOC BackOffice','200','200') ON DUPLICATE KEY UPDATE currentutilized=VALUES(currentutilized),capacity=VALUES(capacity),add_time=CURRENT_TIMESTAMP,add_by=VALUES(add_by)
+
+Time : 07:13:10
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO `cap_infrautli`(`resrc_name`,infra_details, `resrc_item`, `currentutilized`, `capacity`, `add_by`) VALUES ('Backup Server/Syslog','mss-zbl-uc-ra<br />
+AC - 1444994688<br />
+PE: DXB-BSD-D7O<br />
+port BW : 100 MB<br />
+port Account : 1444994115                                    <br />
+                                ','','CPU','1 %','1 %','mohemara'),('Backup Server/Syslog','mss-zbl-uc-ra<br />
+AC - 1444994688<br />
+PE: DXB-BSD-D7O<br />
+port BW : 100 MB<br />
+port Account : 1444994115                                    <br />
+                                ','','Memory','2 KB','2 KB','mohemara'),('Backup Server/Syslog','mss-zbl-uc-ra<br />
+AC - 1444994688<br />
+PE: DXB-BSD-D7O<br />
+port BW : 100 MB<br />
+port Account : 1444994115                                    <br />
+                                ','','Interface/Disk','3 MB','3 MB','mohemara')ON DUPLICATE KEY UPDATE currentutilized=VALUES(currentutilized),capacity=VALUES(capacity),add_time=CURRENT_TIMESTAMP,add_by=VALUES(add_by)
+
+Time : 07:13:04
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO `cap_infrautli`(`resrc_name`,infra_details, `resrc_item`, `currentutilized`, `capacity`, `add_by`) VALUES ('Backup Server/Syslog','mss-zbl-uc-ra<br />
+AC - 1444994688<br />
+PE: DXB-BSD-D7O<br />
+port BW : 100 MB<br />
+port Account : 1444994115                                    <br />
+                                ','','CPU','1 %','1 %','mohemara'),('Backup Server/Syslog','mss-zbl-uc-ra<br />
+AC - 1444994688<br />
+PE: DXB-BSD-D7O<br />
+port BW : 100 MB<br />
+port Account : 1444994115                                    <br />
+                                ','','Memory','2 KB','2 KB','mohemara'),('Backup Server/Syslog','mss-zbl-uc-ra<br />
+AC - 1444994688<br />
+PE: DXB-BSD-D7O<br />
+port BW : 100 MB<br />
+port Account : 1444994115                                    <br />
+                                ','','Interface/Disk','3 MB','3 MB','mohemara')ON DUPLICATE KEY UPDATE currentutilized=VALUES(currentutilized),capacity=VALUES(capacity),add_time=CURRENT_TIMESTAMP,add_by=VALUES(add_by)

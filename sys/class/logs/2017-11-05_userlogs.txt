@@ -1,0 +1,8 @@
+Time : 10:53:51
+User: sojohn |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.55 |-| @1509864831.3896
+
+Time : 10:53:33
+User: sojohn |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.55 |-| @1509864813.1896
+
+Time : 10:29:46
+User: sojohn |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.55 |-| @1509863386.8836

@@ -1,0 +1,40 @@
+Time : 14:26:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '='1079353-0'  ORDER BY LPO ASC' at line 1
+Raw SQL : SELECT `doc_id`, `LPO`, `model`, `doc_type`, `devices`, `file_path`, `file_name`, `doc_number`, `upload_time`, `upload_by`, `verify_status`, `verify_by`, `verify_time` FROM `stock_docs`  LPO='1079353-0'  ORDER BY LPO ASC
+
+Time : 12:24:18
+SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'LPO' in where clause is ambiguous
+Raw SQL : SELECT DISTINCT
+    `stock_hwp_invoice`.`LPO`,
+    stock_hwp_invoice.`model`,
+    stock_hwp_invoice.`doc_number`,
+    stock_hwp_invoice.`auth_code`,
+    stock_hwp_invoice.`manual_amount`,
+    SUM(
+        invoice_order_device_v.hw_invoice
+    ) auto_amount FROM stock_hwp_invoice LEFT JOIN invoice_order_device_v ON invoice_order_device_v.device_Serial = stock_hwp_invoice.device_sr  where  LPO='1079353-0' GROUP BY
+    stock_hwp_invoice.LPO,
+    stock_hwp_invoice.model
+
+Time : 12:22:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where  LPO='1079353-0'' at line 12
+Raw SQL : SELECT DISTINCT
+    `stock_hwp_invoice`.`LPO`,
+    stock_hwp_invoice.`model`,
+    stock_hwp_invoice.`doc_number`,
+    stock_hwp_invoice.`auth_code`,
+    stock_hwp_invoice.`manual_amount`,
+    SUM(
+        invoice_order_device_v.hw_invoice
+    ) auto_amount FROM stock_hwp_invoice LEFT JOIN invoice_order_device_v ON invoice_order_device_v.device_Serial = stock_hwp_invoice.device_sr
+GROUP BY
+    stock_hwp_invoice.LPO,
+    stock_hwp_invoice.model where  LPO='1079353-0'
+
+Time : 11:41:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`=1 or `rfs_paid`=1 or `pac_paid`=1 or `q1_support`=1 or `q2_support`=1 or `q3_s' at line 1
+Raw SQL : SELECT * FROM invoice_order_device_v where  LPO='1079353-0' and (hw_paid`=1 or `rfs_paid`=1 or `pac_paid`=1 or `q1_support`=1 or `q2_support`=1 or `q3_support`=1 or `q4_support`=1)
+
+Time : 11:09:46
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'po_id' in 'where clause'
+Raw SQL : SELECT * FROM lpo_model_invoice_count_v where  po_id='1079353-0'

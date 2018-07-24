@@ -1,0 +1,11 @@
+Time : 07:31:21
+User: mohemara |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: ::1 |-| @1513567881.2459
+
+Time : 07:30:53
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15188  |-| IP: ::1 |-| @1513567853.3189
+
+Time : 07:26:59
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `Model`, `device_Serial`, `LPO`, `AddBy`) VALUES ("cisco7606","sn__1", "9876542210", "mohemara"),("cisco7606","sn__2", "9876542210", "mohemara"),("cisco7606","sn__3", "9876542210", "mohemara"),("cisco7606","sn__4", "9876542210", "mohemara"),("cisco7606","sn__5", "9876542210", "mohemara"),("cisco7606","sn__6", "9876542210", "mohemara"),("cisco7606","sn__7", "9876542210", "mohemara"),("cisco7606","sn__8", "9876542210", "mohemara"),("cisco7606","sn__9", "9876542210", "mohemara"),("cisco7606","sn__10", "9876542210", "mohemara")  |-| IP: ::1 |-| @1513567619.5409
+
+Time : 07:24:18
+User: mohemara |-| actionType: Order upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_order`( DeviceType,`customer_name`, `po_id`, `vendor`, `RouterClass`, `router_model`, `description`, `po_qty`, `cear_id`, `req_by`, `Req_date`, `po_date`, `EDD`,`sicet_type`, `hw_price`, `install_charge`, `support_charge`, `user_add`) VALUES ("Router","Emara","9876542210", "EMIRCOM", "Standard", "cisco7606", "CISCO7606", 10, "HO-HO-13810-V-0000-00", "Emara", "2017-12-13 00:00:00", "2017-12-13 00:00:00", "2 weeks", "SICET2A", "100", "10", "10", "mohemara")  |-| IP: ::1 |-| @1513567458.5905

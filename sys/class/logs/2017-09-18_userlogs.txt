@@ -1,0 +1,14 @@
+Time : 12:15:04
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :197  |-| IP: ::1 |-| @1505722504.5693
+
+Time : 08:17:14
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: ::1 |-| @1505708234.278
+
+Time : 08:15:47
+User: eabuzid |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: ::1 |-| @1505708147.4645
+
+Time : 08:14:17
+User: sojohen |-| actionType: Try to login |-| ActionDetail: Faild login |-| Called From: users Class |-| IP: ::1 |-| @1505708057.0361
+
+Time : 07:31:28
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: ::1 |-| @1505705488.7206

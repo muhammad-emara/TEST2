@@ -1,0 +1,27 @@
+Time : 14:25:15
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO `stock_pacp_invoice`(`LPO`, `model`,`PAC_ref`, `PAC_req_num`, `RFS_req_num`,`doc_number`, `auth_code`, `manual_amount`,device_sr, `add_by`) VALUES ("","", "", "", "", "", "", "", ""),("","", "", "", "", "", "", "", "")
+
+Time : 14:24:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Raw SQL : INSERT INTO `stock_pacp_invoice`(`LPO`, `model`,`PAC_ref`, `PAC_req_num`, `RFS_req_num`,`doc_number`, `auth_code`, `manual_amount`,device_sr, `add_by`) VALUES
+
+Time : 14:22:31
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO `stock_pacp_invoice`(`LPO`, `model`,`PAC_ref`, `PAC_req_num`, `RFS_req_num`,`doc_number`, `auth_code`, `manual_amount`,device_sr, `add_by`) VALUES ("","", "", "", "", "", "", "", ""),("","", "", "", "", "", "", "", "")
+
+Time : 14:20:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Raw SQL : INSERT INTO `stock_pacp_invoice`(`LPO`, `model`,`PAC_ref`, `PAC_req_num`, `RFS_req_num`,`doc_number`, `auth_code`, `manual_amount`,device_sr, `add_by`) VALUES
+
+Time : 14:19:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Raw SQL : INSERT INTO `stock_pacp_invoice`(`LPO`, `model`,`PAC_ref`, `PAC_req_num`, `RFS_req_num`,`doc_number`, `auth_code`, `manual_amount`,device_sr, `add_by`) VALUES
+
+Time : 14:17:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Raw SQL : INSERT INTO `stock_pacp_invoice`(`LPO`, `model`,`PAC_ref`, `PAC_req_num`, `RFS_req_num`,`doc_number`, `auth_code`, `manual_amount`,device_sr, `add_by`) VALUES
+
+Time : 11:35:58
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'RFS_cert' in 'field list'
+Raw SQL : INSERT INTO `stock_hwp_invoice`(`LPO`, `model`, `RFS_cert`, `RFS_req_num`,`doc_number`, `auth_code`, `manual_amount`, `add_by`) VALUES (:LPO, :model,:RFSCertNumber,:RFSReqNum, :doc_number, :auth_code, :manual_amount, :add_by)

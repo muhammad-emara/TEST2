@@ -1,0 +1,53 @@
+Time : 12:48:39
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.81 |-| @1519202919.7951
+
+Time : 12:39:21
+User: mohemara |-| actionType: stock installation |-| ActionDetail: Success installation |-| Called From:  stock_ref :15215  |-| IP: 10.56.10.81 |-| @1519202361.6741
+
+Time : 11:51:51
+User: mohemara |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.81 |-| @1519199511.1601
+
+Time : 11:51:42
+User: mohemara |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.81 |-| @1519199502.7151
+
+Time : 11:45:03
+User: mohemara |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.81 |-| @1519199103.6301
+
+Time : 11:44:53
+User: mohemara |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.81 |-| @1519199093.2131
+
+Time : 11:03:26
+User: mohemara |-| actionType:  New Stock_Order |-| ActionDetail: Succes add   |-| Called From: 0 |-| IP: 10.56.10.81 |-| @1519196606.3571
+
+Time : 10:56:51
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `Model`, `device_Serial`, `LPO`, `AddBy`) VALUES ("cisco1941/k9","cisco1941uat123", "uatpo2", "mohemara")  |-| IP: 10.56.10.81 |-| @1519196211.2781
+
+Time : 10:53:25
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `Model`, `device_Serial`, `LPO`, `AddBy`) VALUES ("cisco1941/k9","cisco1941uat1", "uatpo1", "mohemara")  |-| IP: 10.56.10.81 |-| @1519196005.6901
+
+Time : 10:53:16
+User: mohemara |-| actionType: Delete Stock |-| ActionDetail:  Delete success  |-| Called From: Stock ID :15213 deleted |-| IP: 10.56.10.81 |-| @1519195996.8631
+
+Time : 10:51:13
+User: mohemara |-| actionType: Delete Stock |-| ActionDetail:  Delete success  |-| Called From: Stock ID :15223 deleted |-| IP: 10.56.10.81 |-| @1519195873.8241
+
+Time : 10:40:12
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `Model`, `device_Serial`, `LPO`, `AddBy`) VALUES ("cisco1941/k9","cisco1941uat11", "uatpo1", "mohemara")  |-| IP: 10.56.10.81 |-| @1519195212.5611
+
+Time : 10:37:00
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `Model`, `device_Serial`, `LPO`, `AddBy`) VALUES ("cisco1941/k9","cisco1941uat1", "uatpo1", "mohemara"),("cisco1941/k9","cisco1941uat2", "uatpo1", "mohemara"),("cisco1941/k9","cisco1941uat3", "uatpo1", "mohemara"),("cisco1941/k9","cisco1941uat4", "uatpo1", "mohemara"),("cisco1941/k9","cisco1941uat5", "uatpo1", "mohemara"),("cisco2911/k9","cisco2911uat1", "uatpo1", "mohemara"),("cisco2911/k9","cisco2911uat2", "uatpo1", "mohemara"),("cisco2951/k9","cisco2951uat1", "uatpo1", "mohemara"),("cisco2951/k9","cisco2951uat2", "uatpo1", "mohemara"),("cisco2960","cisco2960uat1", "uatpo1", "mohemara")  |-| IP: 10.56.10.81 |-| @1519195020.2461
+
+Time : 10:09:39
+User: mohemara |-| actionType:  New Stock_Order |-| ActionDetail: Succes add   |-| Called From: 0 |-| IP: 10.56.10.81 |-| @1519193379.2861
+
+Time : 10:08:26
+User: mohemara |-| actionType:  New Stock_Order |-| ActionDetail: Succes add   |-| Called From: 0 |-| IP: 10.56.10.81 |-| @1519193306.9041
+
+Time : 10:07:16
+User: mohemara |-| actionType:  New Stock_Order |-| ActionDetail: Succes add   |-| Called From: 0 |-| IP: 10.56.10.81 |-| @1519193236.3251
+
+Time : 09:42:40
+User: mohemara |-| actionType:  New Stock_Order |-| ActionDetail: Succes add   |-| Called From: 0 |-| IP: 10.56.10.81 |-| @1519191760.5821
+
+Time : 09:35:04
+User: mohemara |-| actionType: Order upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_order`( DeviceType,`customer_name`, `po_id`, `vendor`, `RouterClass`, `router_model`, `description`, `po_qty`, `cear_id`, `req_by`, `Req_date`, `po_date`, `EDD`,`sicet_type`, `hw_price`, `install_charge`, `support_charge`, `user_add`) VALUES ("Router","UATCUSTOMER","UATPO1", "UATEMIRCOM", "Standard", "cisco1941/k9", "UATSOJAN", 5, "HO-1410", "UAT", "2018-01-31 00:00:00", "2018-01-25 00:00:00", "01/02/2018", "SICET2A", "100", "50", "30", "mohemara"),("Router","UATCUSTOMER","UATPO1", "UATEMIRCOM", "Standard", "cisco2911/k9", "UATSOJAN", 2, "HO-1410", "UAT", "2018-01-31 00:00:00", "2018-01-25 00:00:00", "01/02/2018", "SICET2A", "80", "20", "40", "mohemara"),("Router","UATCUSTOMER","UATPO1", "UATEMIRCOM", "Standard", "cisco2951/k9", "UATSOJAN", 2, "HO-1410", "UAT", "2018-01-31 00:00:00", "2018-01-25 00:00:00", "01/02/2018", "SICET2A", "90", "20", "20", "mohemara"),("Switch","UATCUSTOMER","UATPO1", "UATEMIRCOM", "Standard", "cisco2960", "UATSOJAN", 1, "HO-1410", "UAT", "2018-01-31 00:00:00", "2018-01-25 00:00:00", "01/02/2018", "SICET2A", "50", "25", "10", "mohemara")  |-| IP: 10.56.10.81 |-| @1519191304.1761

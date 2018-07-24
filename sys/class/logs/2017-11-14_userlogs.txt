@@ -1,0 +1,38 @@
+Time : 14:01:49
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `Model`, `device_Serial`, `LPO`, `AddBy`) VALUES ("cisco7606","sn_2", "123456789", "mohemara"),("cisco7606","sn_3", "123456789", "mohemara"),("cisco7606","sn_4", "123456789", "mohemara"),("cisco7606","sn_5", "123456789", "mohemara"),("cisco7606","sn_6", "123456789", "mohemara"),("cisco7606","sn_7", "123456789", "mohemara"),("cisco7606","sn_8", "123456789", "mohemara"),("cisco7606","sn_9", "123456789", "mohemara"),("cisco7606","sn_10", "123456789", "mohemara")  |-| IP: ::1 |-| @1510653709.4467
+
+Time : 14:01:37
+User: mohemara |-| actionType: Delete Stock |-| ActionDetail:  Delete success  |-| Called From: Stock ID :15167 deleted |-| IP: ::1 |-| @1510653697.7527
+
+Time : 14:01:35
+User: mohemara |-| actionType: Delete Stock |-| ActionDetail:  Delete success  |-| Called From: Stock ID :15166 deleted |-| IP: ::1 |-| @1510653695.6627
+
+Time : 14:01:33
+User: mohemara |-| actionType: Delete Stock |-| ActionDetail:  Delete success  |-| Called From: Stock ID :15165 deleted |-| IP: ::1 |-| @1510653693.6027
+
+Time : 14:01:31
+User: mohemara |-| actionType: Delete Stock |-| ActionDetail:  Delete success  |-| Called From: Stock ID :15163 deleted |-| IP: ::1 |-| @1510653691.6127
+
+Time : 14:01:29
+User: mohemara |-| actionType: Delete Stock |-| ActionDetail:  Delete success  |-| Called From: Stock ID :15164 deleted |-| IP: ::1 |-| @1510653689.6727
+
+Time : 14:01:27
+User: mohemara |-| actionType: Delete Stock |-| ActionDetail:  Delete success  |-| Called From: Stock ID :15160 deleted |-| IP: ::1 |-| @1510653687.2627
+
+Time : 14:01:25
+User: mohemara |-| actionType: Delete Stock |-| ActionDetail:  Delete success  |-| Called From: Stock ID :15162 deleted |-| IP: ::1 |-| @1510653685.5627
+
+Time : 14:01:23
+User: mohemara |-| actionType: Delete Stock |-| ActionDetail:  Delete success  |-| Called From: Stock ID :15161 deleted |-| IP: ::1 |-| @1510653683.6527
+
+Time : 14:01:21
+User: mohemara |-| actionType: Delete Stock |-| ActionDetail:  Delete success  |-| Called From: Stock ID :15159 deleted |-| IP: ::1 |-| @1510653681.6427
+
+Time : 13:59:53
+User: mohemara |-| actionType: Stock upload |-| ActionDetail: Success upload |-| Called From: data :INSERT INTO `stock_stockdata`(  `Model`, `device_Serial`, `LPO`, `AddBy`) VALUES ("cisco7606","sn_1", "123456789", "mohemara")  |-| IP: ::1 |-| @1510653593.5787
+
+Time : 13:53:04
+User: mohemara |-| actionType: Delete Stock |-| ActionDetail:  Delete success  |-| Called From: Stock ID :15158 deleted |-| IP: ::1 |-| @1510653184.2457
+
+Time : 13:48:12
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: ::1 |-| @1510652892.6557

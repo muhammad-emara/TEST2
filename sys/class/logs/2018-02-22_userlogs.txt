@@ -1,0 +1,5 @@
+Time : 09:12:11
+User: mohemara |-| actionType: Edit HW Paid |-| ActionDetail: Faild Edit |-| Called From: Device ID  :cisco1941uat6 |-| IP: 10.56.10.55 |-| @1519276331.252
+
+Time : 08:33:16
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.55 |-| @1519273996.9556

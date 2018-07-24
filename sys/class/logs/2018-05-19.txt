@@ -1,0 +1,113 @@
+Time : 11:25:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ON a.po_id = b.LPO AND a.router_model = b.Model
+left join
+stock_hwp_invoice c
+on' at line 41
+Raw SQL : SELECT distinct a.po_id,a.po_date,a.vendor,a.sicet_type,a.router_model,b.device_Serial,(a.hw_price/a.po_qty) unite_price,(a.install_charge/a.po_qty)installation_price,(a.support_charge/a.po_qty)support_charge,(c.manual_amount/d.hw_paid) delivery_cost,c.doc_number hw_inv
+,c.auth_code hw_auth
+,e.installation_stat
+,f.installation_date
+,f.`MARWAN_SR` install_sr
+,f.`MARWAN_acc` install_acc
+,g.host_name
+,g.`RFS_date`
+,g.enroll_date
+,g.account_status
+,g.`contracutal_RFS_Date`
+,g.`RFS_Request_Number`
+,h.`RFS_cert`
+,h.doc_number rfs_inv
+,h.auth_code rfs_auth
+,h.manual_amount rfs_amount_total
+,(i.manual_amount/i.rfs_devices_count) as rfs_amount
+,j.auth_code pac_auth
+,j.`PAC_ref`
+,j.`PAC_req_num`
+,j.manual_amount  pac_total
+,k.manual_amount/k.dev_count as pac_value
+
+,j.doc_number pac_inv
+,q1.doc_number q1_inv
+,q1.auth_code q1_auth
+,q1.manual_amount q1_manual_ammount
+,q2.doc_number q2_inv
+,q2.auth_code q2_auth
+,q2.manual_amount q2_manual_ammount
+,q3.doc_number q3_inv
+,q3.auth_code q3_auth
+,q3.manual_amount q3_manual_ammount
+,q4.doc_number q4_inv
+,q4.auth_code q4_auth
+,q4.manual_amount q4_manual_ammount
+from stock_order as a
+join
+stock_stockdata as b
+on
+ON a.po_id = b.LPO AND a.router_model = b.Model
+left join
+stock_hwp_invoice c
+on
+c.device_sr=b.`device_Serial`
+left join
+lpo_model_invoice_count_v d
+on
+d.`LPO`=b.`LPO`
+and 
+d.`Model`=b.`Model`
+left join
+routers_detailes e
+on
+e.device_Serial=b.`device_Serial`
+left join
+stock_installation f
+on
+f.stock_ref=b.`stock_ID`
+left join 
+stock_rfs_data g
+on
+g.devices_serial=b.`device_Serial`
+left join
+stock_rfsp_invoice h
+on
+h.`LPO`=g.`LPO`
+and h.`RFS_req_num`=g.`RFS_Request_Number`
+and h.device_sr=b.`device_Serial`
+left join
+stock_rfsed_sn_v i
+on
+i.doc_number=h.doc_number
+left join
+stock_pacp_invoice j
+on
+j.device_sr=b.`device_Serial`
+left join
+stock_pacp_sn_v k
+on
+k.doc_number=j.doc_number
+left join
+stock_qp_invoice q1
+on
+q1.device_sr=b.`device_Serial`
+and (q1.q_num='q1' or q1.q_num='Q1')
+left join
+stock_qp_invoice q2
+on
+q2.device_sr=b.`device_Serial`
+and (q2.q_num='q2' or q2.q_num='Q2')
+left join
+stock_qp_invoice q3
+on
+q3.device_sr=b.`device_Serial`
+and (q3.q_num='q3' or q3.q_num='Q3')
+left join
+stock_qp_invoice q4
+on
+q4.device_sr=b.`device_Serial`
+and (q4.q_num='q1' or q4.q_num='Q1')
+
+
+
+
+
+
+where a.po_id='112233'

@@ -1,0 +1,20 @@
+Time : 19:05:32
+User: mohemara |-| actionType: Delete Cap Resource utiliti |-| ActionDetail: Success Delete |-| Called From: Resource ID :Backup Server/Syslog deleted |-| IP: ::1 |-| @1526396732.5002
+
+Time : 19:00:51
+User: mohemara |-| actionType: Delete Cap Resource utiliti |-| ActionDetail: Success Delete |-| Called From: Resource ID :Backup Server/Syslog deleted |-| IP: ::1 |-| @1526396451.6622
+
+Time : 14:46:22
+User: mohemara |-| actionType: Delete Cap cap_futureservice |-| ActionDetail: Success Delete |-| Called From: cap_futureservice ID :17 deleted |-| IP: ::1 |-| @1526381182.4826
+
+Time : 14:26:52
+User: mohemara |-| actionType: Delete Cap servicetechno |-| ActionDetail: Success Delete |-| Called From: servicetechno ID :11 deleted |-| IP: ::1 |-| @1526380012.493
+
+Time : 12:56:46
+User: mohemara |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: ::1 |-| @1526374606.4287
+
+Time : 12:56:32
+User: mohemara |-| actionType: Edit User |-| ActionDetail: Success Edit |-| Called From: users ID :1 Edit with values webid=15& role : 2 |-| IP: ::1 |-| @1526374592.8624
+
+Time : 11:22:57
+User: mohemara |-| actionType: Edit Doc |-| ActionDetail: Success Edit |-| Called From: 0 |-| IP: 10.56.10.81 |-| @1526368977.5063

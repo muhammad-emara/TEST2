@@ -1,0 +1,5 @@
+Time : 08:14:11
+User: sojohn |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.55 |-| @1508386451.5504
+
+Time : 07:58:08
+User: sojohn |-| actionType: Try to login |-| ActionDetail: Success login |-| Called From: users Class |-| IP: 10.56.10.81 |-| @1508385488.5163
